@@ -8,8 +8,14 @@ Python 3.10
 
 Jupyter Notebook
 
+### Instructions
+Open loansummary.jpynb in Jupyter Lab or Google Colab
+Make sure to save the mortgage.py in the same folder as this is the key the loan summary will use.
+Run notebook to make sure the loan summary is pulling from mortgage.py
+Edit any of the numbers in green
+Run 
 
-### Contributor 
+#### Contributor 
 Phil Hills 
 
 bphilhills@gmail.com
